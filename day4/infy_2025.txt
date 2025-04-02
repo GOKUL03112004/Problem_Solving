@@ -1,0 +1,34 @@
+1 . dynamic programming ( dp)
+a) divide the problem into sub problems
+b) solve them 
+c) store the answer in Variable/Array
+d) reuse the prev results 
+and calculate the next result 
+e) avoid redundant computation 
+F(5) =   calculating ==> 10 
+F(5) = return 10 immediately
+F(5) = return 10 
+d) avoid recursion 
+	  or,
+ convert recursion into for loop
+
+
+example: 
+1)  Fibbonacci number generation using for loop 
+2) Factorial calculation using for loop 
+3) etc 
+
+
+
+
+Greedy approach: 
+
+1) In each iteration, find Locally optimal soln 
+2) Aim for Global optimal soln (  ans)  
+
+
+
+
+
+
+
