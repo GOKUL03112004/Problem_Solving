@@ -61,8 +61,7 @@ class Account{
         }
     }
 
-}
-class Transaction{
+}class Transaction{
     String[] arr =new String[100];
     int i=0;
     void updatetransaction(String msg)
@@ -84,6 +83,7 @@ class Transaction{
         }
     }
 }
+
 public class Bank2 {
     static Customers[] arr =new Customers[10];
     static int i=0;

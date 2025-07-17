@@ -40,6 +40,7 @@ class Student {
         System.out.println(phoneno);
     }
 
+
     public static void main(String args[]){
         Scanner s = new Scanner(System.in);
         System.out.println("Enter the no of students:");
